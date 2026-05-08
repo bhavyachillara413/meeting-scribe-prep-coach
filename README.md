@@ -368,7 +368,7 @@ Meeting Scribe & Prep Coach helps teams:
 
 # Team
 
-Hawkers
+MSRIT_Hawkers
 
 Members:
 
@@ -376,3 +376,8 @@ Members:
 * Batthula Bhavya Sree
 * Jalimanchi Sree Kruthi
 * Manasa Rajendran
+
+
+## Demo Video
+
+https://drive.google.com/file/d/1t6SG4coEMNqDxFK_GZMWYh8oE4_N4Bth/view?usp=sharing
